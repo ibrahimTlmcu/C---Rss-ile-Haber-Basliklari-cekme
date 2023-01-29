@@ -1,0 +1,11 @@
+C:\Users\Casper\source\repos\RSSileVeriCekme\RSSileVeriCekme\bin\Debug\RSSileVeriCekme.exe.config
+C:\Users\Casper\source\repos\RSSileVeriCekme\RSSileVeriCekme\bin\Debug\RSSileVeriCekme.exe
+C:\Users\Casper\source\repos\RSSileVeriCekme\RSSileVeriCekme\bin\Debug\RSSileVeriCekme.pdb
+C:\Users\Casper\source\repos\RSSileVeriCekme\RSSileVeriCekme\obj\Debug\RSSileVeriCekme.csproj.AssemblyReference.cache
+C:\Users\Casper\source\repos\RSSileVeriCekme\RSSileVeriCekme\obj\Debug\RSSileVeriCekme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Casper\source\repos\RSSileVeriCekme\RSSileVeriCekme\obj\Debug\RSSileVeriCekme.Form1.resources
+C:\Users\Casper\source\repos\RSSileVeriCekme\RSSileVeriCekme\obj\Debug\RSSileVeriCekme.Properties.Resources.resources
+C:\Users\Casper\source\repos\RSSileVeriCekme\RSSileVeriCekme\obj\Debug\RSSileVeriCekme.csproj.GenerateResource.cache
+C:\Users\Casper\source\repos\RSSileVeriCekme\RSSileVeriCekme\obj\Debug\RSSileVeriCekme.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\RSSileVeriCekme\RSSileVeriCekme\obj\Debug\RSSileVeriCekme.exe
+C:\Users\Casper\source\repos\RSSileVeriCekme\RSSileVeriCekme\obj\Debug\RSSileVeriCekme.pdb
